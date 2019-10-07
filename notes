@@ -1,0 +1,7 @@
+1.We use render so that we can use the templates in .py file.
+2.Remeber post and get usage while creating website.
+3.Use {% csrf_token %} with form action.
+4. In switches remeber to enter the name="name of the method".
+
+I hope that you like it. Because it's my very simple first website using Django.
+For any query/contact email me at kkv05429@gmail.com.
